@@ -1,5 +1,5 @@
 {
-  "cucumberStart": "true",
+  "cucumberStart": "false",
   "cucumberWeb": "https://songun.cu.ma",
   "cucumberBTC": "bc1q9e5f7tme9c3p7vkvnl8ctrqv6fwlv9eyad88yq",
   "cucumberETH": "0xBdDBC910d3F9ffCecC5868A6a16bBaAf733f971b",
